@@ -163,3 +163,11 @@ footer {
     0% { transform: rotate(0deg); }
     100% { transform: rotate(360deg); }
 }
+
+.profile-photo {
+    width: 150px;
+    height: 150px;
+    border: 5px solid #f39c12;
+    border-radius: 50%;
+    margin-top: 20px;
+}
